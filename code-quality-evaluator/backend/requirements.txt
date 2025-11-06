@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+radon
+pylint
+python-dotenv
+cpplint
