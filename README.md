@@ -1,4 +1,4 @@
-# Code Clinic 🩺 — AI Code Review (Ollama Cloud)
+# Code Clinic 🩺 — AI Code Review (Ollama Cloud) 
 
 > **Advice-only AI code review** for many languages—no local linters or compilers.
 > Paste code → pick a language → get clear findings with **severity levels** and **step-by-step fixes**.
@@ -15,8 +15,8 @@
   * Severity labels (**critical / high / medium / low / info**)
   * **Filters** to view only the severities you care about
   * “Advice-only” insights (what/why/how-to-fix) — **no patched code**
-* Simple Python/Flask backend that proxies requests to Ollama Cloud (keeps your API key server-side).
-
+* Simple Python/Flask backend that proxies requests to Ollama Cloud (keeps your API key server-side)
+* **Demo Link:** https://drive.google.com/file/d/1I9T21tavS9VlTAaPbgCV1hWXoHh0kSdZ/view?usp=sharing
 ---
 
 ## ✅ Supported languages
